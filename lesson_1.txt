@@ -1,0 +1,13 @@
+using diff (FC) narrowed the field to search and mad it easier to spot changes more easily
+
+history of changes can help debug as well as provide searchable progress to find bug introduced several versions earlier
+
+Some auto updates would be nice but more meaningful changes are capable with manual commit
+saving groups of files helps track changes across several files and offers better undersanding of how and why each change was made as well as beginning of tracking issues across multiple changes in related files
+
+git log & git diff allow listing of changes with some detail including comments and the comparison of two commits in detail
+
+version control can help revert chages that are bugs or don't work, it makes testing code easier because errors or dysfuncional changes can be isolated and previous versions can be restored this allows more exploration without loosing funcionality
+
+I would like to use GIt for programming most applications and any colaborations
+
