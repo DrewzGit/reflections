@@ -1,2 +1,5 @@
 git init initializes the repository meta data
 
+the staging area holds files to commit, the working directory is where local files are stored. the staging area allows control of what and when files are commited
+
+
