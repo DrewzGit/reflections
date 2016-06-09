@@ -2,4 +2,9 @@ git init initializes the repository meta data
 
 the staging area holds files to commit, the working directory is where local files are stored. the staging area allows control of what and when files are commited
 
+by using add for changed files per logical change and commit when the logical change is finished or needs testing
+
+branches are natural points of divergence from the main development sequence making testing and development outside the main sequence and allowing for each seperate sequence to be tracked
+
+Diagrams reduce the detail level (from commit id) to overall branch structure and can identify unreachable nodes for each branch
 
