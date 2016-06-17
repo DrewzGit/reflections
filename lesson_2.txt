@@ -8,3 +8,9 @@ branches are natural points of divergence from the main development sequence mak
 
 Diagrams reduce the detail level (from commit id) to overall branch structure and can identify unreachable nodes for each branch
 
+Merging two branches incorporates all changes in both branches to be merged into one branch and the full history to be accesed in log, the diagram shows both aspects
+
+Auto merging when unambiguous is great maual merging when ambiguous avoids bugs and lost work
+
+
+
