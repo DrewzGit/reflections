@@ -26,4 +26,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Any significant test or changes as well as normal brancking points like language or accessability. also, potentially for each developer/team
+
